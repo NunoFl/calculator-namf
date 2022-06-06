@@ -1,2 +1,2 @@
-# calculator-namf
+# Calculator
 Created with CodeSandbox
